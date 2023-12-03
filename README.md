@@ -3,10 +3,10 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Attending further education in Cloud Computing and DevOps Engineering at Techstarter GmbH Munich, Germany.
+- 🎓 &nbsp; Attending further education in Cloud Computing and DevOps Engineering at Techstarter GmbH, Munich, Germany.
 - 💼 &nbsp; Looking for job in Cloud Computing and DevOps.
 - 🌱 &nbsp; Learning Jenkins, GitHub Actions, Ansible, Terraform, AWS, MERN stack full stack web development.
-###- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- 😄 Pronouns: she, her
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -34,7 +34,7 @@
   ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 - 🖥 &nbsp;
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
+  ![Illustrator](https://img.shields.io/badge/-Ansible-333333?style=flat&logo=ansible)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 
@@ -49,6 +49,10 @@
 
   
 <!--
+- 🖥 &nbsp;
+  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
+  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+  ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 <br/>
 
 <a href="https://github.com/AVS1508">
@@ -67,8 +71,8 @@
 </p>
 ⭐️ From [AVS1508](https://github.com/AVS1508)
 Hi there 👋
+- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 - 🌱 I’m currently learning DevOps CICD, Jenkins, AWS-CodePipeline, Ansible, Terraform
-- 😄 Pronouns: she
 - 🤔 I’m looking for help with Jenkins
 - I'm currently working on ...
 - 👯 I’m looking to collaborate on ...
