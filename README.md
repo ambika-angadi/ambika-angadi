@@ -31,6 +31,7 @@
   ![Photoshop](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
   ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform)
   ![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins)
+  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=aws)
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
