@@ -6,7 +6,7 @@
 - 🎓 &nbsp; Attending further education in Cloud Computing and DevOps Engineering at Techstarter GmbH, Munich, Germany.
 - 💼 &nbsp; Looking for job in Cloud Computing and DevOps.
 - 🌱 &nbsp; Learning Jenkins, GitHub Actions, Ansible, Terraform, AWS, MERN stack full stack web development.
-- 😄 Pronouns: she, her
+- 😄 &npsp; Pronouns: she, her
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -31,7 +31,6 @@
   ![Photoshop](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
   ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform)
   ![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins)
-  ![AWS-CodePipeline](https://img.shields.io/badge/-AWS-CodePipeline-333333?style=flat&logo=aws-codepipeline)
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
