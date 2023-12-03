@@ -6,7 +6,7 @@
 - 🎓 &nbsp; Attending further education in Cloud Computing and DevOps Engineering at Techstarter GmbH, Munich, Germany.
 - 💼 &nbsp; Looking for job in Cloud Computing and DevOps.
 - 🌱 &nbsp; Learning Jenkins, GitHub Actions, Ansible, Terraform, AWS, MERN stack full stack web development.
-- 😄 &npsp; Pronouns: she, her
+- 😄 &nbsp; Pronouns: she, her
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
