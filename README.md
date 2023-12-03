@@ -1,5 +1,4 @@
 Hi there 👋
-
 - 🌱 I’m currently learning DevOps CICD, Jenkins, AWS-CodePipeline, Ansible, Terraform
 - 😄 Pronouns: she
 - 🤔 I’m looking for help with Jenkins
